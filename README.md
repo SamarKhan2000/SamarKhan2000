@@ -8,4 +8,10 @@ I'm a currently a second year MPA student at SIPA concentrating in International
 - 😄 Pronouns: she/her/hers
 -->
 
-
+<p align="center">
+  <!-- Monospace Font -->
+  <samp>
+    <a href="[https://www.linkedin.com/in/laptudirm/](https://www.linkedin.com/in/samar-khan-4a0178166)">linkedin</a> .
+    <a href="./samarrashid92@gmail.com">email</a> .
+  </samp>
+</p>
