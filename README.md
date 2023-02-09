@@ -30,7 +30,7 @@ I'm a currently a second year MPA student at SIPA concentrating in International
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA?si=2765799e33744300"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
+      <td><a href="https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA?si=2765799e33744300"><img src="[https://status.nmoo.dev/top-tracks?i=3](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA?si=2765799e33744300)" width="540" height="64"></a></td>
     </tr>
   </tbody>
 </table>
