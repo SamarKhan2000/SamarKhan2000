@@ -8,10 +8,29 @@ I'm a currently a second year MPA student at SIPA concentrating in International
 - 😄 Pronouns: she/her/hers
 -->
 
-<p align="center">
-  <!-- Monospace Font -->
-  <samp>
-    <a href="[https://www.linkedin.com/in/laptudirm/](https://www.linkedin.com/in/samar-khan-4a0178166)">linkedin</a> .
-    <a href="./samarrashid92@gmail.com">email</a> .
-  </samp>
-</p>
+
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
